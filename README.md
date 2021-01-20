@@ -1,7 +1,8 @@
 Sergey Pilipchak
 
 position:
-PM at 4irelabs
+PM/BA 
+@ 4irelabs
 
 birth: 
 17 / oct / 1986
@@ -16,4 +17,4 @@ phone:
 +380673010626
 
 email:
-.
+s.pilipchak@4irelabs.com
